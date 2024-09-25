@@ -2,8 +2,7 @@
 
 I'm Raíssa, an undergraduate student in Statistics at the Federal University of Rio Grande do Sul, south of Brazil. Here's a quick update on my college journey:
 
-- 🧬 I’m currently diving into a new project about epidemiological trees and machine learning (that's pretty much why I'm on GitHub right now)
-- 🗓 I’m in the 5th semester of the program
+- 🗓 I’m in the 6th semester of the program
 - 📚 Eyeing a major in Statistics or Computer Science after graduation
 - 🧩 Besides college, I hit the gym and love tackling jigsaw puzzles (the 500+ piece ones 🤩)
 - 🪐 I'm into watching science channels
